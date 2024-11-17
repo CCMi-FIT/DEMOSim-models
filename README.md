@@ -1,2 +1,2 @@
 # DEMOSim-models
-Models for the DEMO Simulator
+Models for the [DEMO Simulator](https://github.com/CCMi-FIT/DEMOSim)
